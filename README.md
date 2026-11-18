@@ -1,1 +1,1 @@
-#karate-club-modularity
+karate-club-modularity
